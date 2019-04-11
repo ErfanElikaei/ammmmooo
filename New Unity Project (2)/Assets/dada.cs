@@ -18,6 +18,7 @@ public class dada : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        
+        print("SAGG");
     }
+
 }
