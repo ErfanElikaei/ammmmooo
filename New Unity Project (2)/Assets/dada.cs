@@ -18,11 +18,9 @@ public class dada : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-<<<<<<< HEAD
         print("SAGG");
-=======
         print("DO ");
->>>>>>> 0eecf346f656609782fa43a6a8889a6fd958332a
+        print("Goh");
     }
 
 }
